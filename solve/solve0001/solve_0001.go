@@ -12,13 +12,14 @@ package solve0001
 
 func twoSum(nums []int, target int) []int {
 	lenth := len(nums)
+	m := map[int]int{}
 
-	for i := 0; i < lenth-1; i++ {
-		for j := i + 1; j < lenth; j++ {
-			if nums[i]+nums[j] == target {
-				return []int{i, j}
-			}
+	for i := 0; i < lenth; i++ {
+		index, ok := m[target-nums[i]]
+		if ok {
+			return []int{index, i}
 		}
+		m[nums[i]] = i
 	}
 	return []int{}
 }
