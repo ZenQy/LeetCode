@@ -3,13 +3,14 @@
 <!--- table -->
 
 
-总计: 6
+总计: 7
 
-| 序号 | 难度 | 题目                    | 解答                      |
-| ---- | ---- | ------------------ | ---------------- |
-| 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
-| 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
-| 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
-| 122 | 中等 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solve/solve0122](../solve/solve0122)|
-| 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
-| 350 | 简单 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [solve/solve0350](../solve/solve0350)|
+| 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
+| ---- | ---- | ---- | ------------------ | ---------------- |
+| 1 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
+| 27 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
+| 189 | 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
+| 414 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
+| 485 | 485 | 简单 | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | [solve/solve0485](../solve/solve0485)|
+| 495 | 495 | 简单 | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
+| 628 | 628 | 简单 | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [solve/solve0628](../solve/solve0628)|

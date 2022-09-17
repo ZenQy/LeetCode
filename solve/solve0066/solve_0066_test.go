@@ -1,2 +1,0 @@
-package solve0066
-
