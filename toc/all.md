@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 15
+总计: 17
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -13,6 +13,7 @@
 | 41 | 41 | 困难 | [缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) | [solve/solve0041](../solve/solve0041)|
 | 189 | 189 | 中等 | [旋转数组](https://leetcode.cn/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
 | 274 | 274 | 中等 | [H 指数](https://leetcode.cn/problems/h-index/) | [solve/solve0274](../solve/solve0274)|
+| 283 | 283 | 简单 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [solve/solve0283](../solve/solve0283)|
 | 414 | 414 | 简单 | [第三大的数](https://leetcode.cn/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 442 | 442 | 中等 | [数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [solve/solve0442](../solve/solve0442)|
 | 448 | 448 | 简单 | [找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | [solve/solve0448](../solve/solve0448)|
@@ -21,4 +22,5 @@
 | 495 | 495 | 简单 | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
 | 628 | 628 | 简单 | [三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solve/solve0628](../solve/solve0628)|
 | 645 | 645 | 简单 | [错误的集合](https://leetcode.cn/problems/set-mismatch/) | [solve/solve0645](../solve/solve0645)|
+| 665 | 665 | 中等 | [非递减数列](https://leetcode.cn/problems/non-decreasing-array/) | [solve/solve0665](../solve/solve0665)|
 | 697 | 697 | 简单 | [数组的度](https://leetcode.cn/problems/degree-of-an-array/) | [solve/solve0697](../solve/solve0697)|

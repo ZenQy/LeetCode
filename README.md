@@ -1,6 +1,4 @@
 # LeetCode
-My LeetCode
----
 
 | 序号 | 分类 |
 | ---- | ---- |
