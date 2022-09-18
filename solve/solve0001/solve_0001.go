@@ -6,7 +6,7 @@ package solve0001
  * @difficulty 简单
  * @tags array,hash-table
  * @draft false
- * @link https://leetcode-cn.com/problems/two-sum/
+ * @link https://leetcode.cn/problems/two-sum/
  * @frontendId 1
  */
 

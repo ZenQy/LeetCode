@@ -8,7 +8,7 @@ import "math"
  * @difficulty 简单
  * @tags array,sorting
  * @draft false
- * @link https://leetcode-cn.com/problems/third-maximum-number/
+ * @link https://leetcode.cn/problems/third-maximum-number/
  * @frontendId 414
  */
 

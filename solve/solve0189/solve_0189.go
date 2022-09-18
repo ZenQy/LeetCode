@@ -6,10 +6,10 @@ package solve0189
  * @difficulty 中等
  * @tags array,math,two-pointers
  * @draft false
- * @link https://leetcode-cn.com/problems/rotate-array/
+ * @link https://leetcode.cn/problems/rotate-array/
  * @frontendId 189
-*/
+ */
 
-func rotate(nums []int, k int)  {
+func rotate(nums []int, k int) {
 
 }

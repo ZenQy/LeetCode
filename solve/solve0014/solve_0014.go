@@ -6,7 +6,7 @@ package solve0014
  * @difficulty 简单
  * @tags string
  * @draft false
- * @link https://leetcode-cn.com/problems/longest-common-prefix/
+ * @link https://leetcode.cn/problems/longest-common-prefix/
  * @frontendId 14
  */
 

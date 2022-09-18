@@ -6,7 +6,7 @@ package solve0645
  * @difficulty 简单
  * @tags bit-manipulation,array,hash-table,sorting
  * @draft false
- * @link https://leetcode-cn.com/problems/set-mismatch/
+ * @link https://leetcode.cn/problems/set-mismatch/
  * @frontendId 645
  */
 

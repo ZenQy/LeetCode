@@ -6,7 +6,7 @@ package solve0027
  * @difficulty 简单
  * @tags array,two-pointers
  * @draft false
- * @link https://leetcode-cn.com/problems/remove-element/
+ * @link https://leetcode.cn/problems/remove-element/
  * @frontendId 27
  */
 

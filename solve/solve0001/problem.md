@@ -1,4 +1,4 @@
-# [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+# [1. 两数之和](https://leetcode.cn/problems/two-sum/)
 
 <p>给定一个整数数组 <code>nums</code> 和一个整数目标值 <code>target</code>，请你在该数组中找出 <strong>和为目标值 </strong><em><code>target</code></em>  的那 <strong>两个</strong> 整数，并返回它们的数组下标。</p>
 

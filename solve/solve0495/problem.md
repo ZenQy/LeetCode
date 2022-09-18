@@ -1,4 +1,4 @@
-# [495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)
+# [495. 提莫攻击](https://leetcode.cn/problems/teemo-attacking/)
 
 <p>在《英雄联盟》的世界中，有一个叫 “提莫” 的英雄。他的攻击可以让敌方英雄艾希（编者注：寒冰射手）进入中毒状态。</p>
 

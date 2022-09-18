@@ -8,7 +8,7 @@ import "math"
  * @difficulty 简单
  * @tags array,math,sorting
  * @draft false
- * @link https://leetcode-cn.com/problems/maximum-product-of-three-numbers/
+ * @link https://leetcode.cn/problems/maximum-product-of-three-numbers/
  * @frontendId 628
  */
 

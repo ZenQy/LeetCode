@@ -6,7 +6,7 @@ package solve0495
  * @difficulty 简单
  * @tags array,simulation
  * @draft false
- * @link https://leetcode-cn.com/problems/teemo-attacking/
+ * @link https://leetcode.cn/problems/teemo-attacking/
  * @frontendId 495
  */
 

@@ -1,4 +1,4 @@
-# [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+# [189. 旋转数组](https://leetcode.cn/problems/rotate-array/)
 
 <p>给定一个数组，将数组中的元素向右移动 <code>k</code><em> </em>个位置，其中 <code>k</code><em> </em>是非负数。</p>
 

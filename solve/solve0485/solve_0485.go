@@ -6,7 +6,7 @@ package solve0485
  * @difficulty 简单
  * @tags array
  * @draft false
- * @link https://leetcode-cn.com/problems/max-consecutive-ones/
+ * @link https://leetcode.cn/problems/max-consecutive-ones/
  * @frontendId 485
  */
 

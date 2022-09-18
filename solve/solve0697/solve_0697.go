@@ -6,7 +6,7 @@ package solve0697
  * @difficulty 简单
  * @tags array,hash-table
  * @draft false
- * @link https://leetcode-cn.com/problems/degree-of-an-array/
+ * @link https://leetcode.cn/problems/degree-of-an-array/
  * @frontendId 697
  */
 
