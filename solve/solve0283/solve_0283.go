@@ -10,7 +10,7 @@ package solve0283
  * @frontendId 283
  */
 
-func moveZeroes(nums []int) []int {
+func moveZeroes(nums []int) {
 	left, right, n := 0, 0, len(nums)
 	for right < n {
 		if nums[right] != 0 {
@@ -21,5 +21,4 @@ func moveZeroes(nums []int) []int {
 		}
 		right++
 	}
-	return nums
 }
