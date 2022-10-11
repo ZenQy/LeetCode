@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 31
+总计: 32
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -22,6 +22,7 @@
 | 283 | 283 | 简单 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [solve/solve0283](../solve/solve0283)|
 | 289 | 289 | 中等 | [生命游戏](https://leetcode.cn/problems/game-of-life/) | [solve/solve0289](../solve/solve0289)|
 | 303 | 303 | 简单 | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | [solve/solve0303](../solve/solve0303)|
+| 304 | 304 | 中等 | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | [solve/solve0304](../solve/solve0304)|
 | 396 | 396 | 中等 | [旋转函数](https://leetcode.cn/problems/rotate-function/) | [solve/solve0396](../solve/solve0396)|
 | 414 | 414 | 简单 | [第三大的数](https://leetcode.cn/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 419 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
