@@ -21,11 +21,11 @@ func Constructor(nums []int) NumArray {
 	return NumArray{nums}
 }
 
-func (this *NumArray) SumRange(left int, right int) int {
+func (na *NumArray) SumRange(left int, right int) int {
 	if left == 0 {
-		return this.Nums[right]
+		return na.Nums[right]
 	}
-	return this.Nums[right]- this.Nums[left-1]
+	return na.Nums[right] - na.Nums[left-1]
 }
 
 /**

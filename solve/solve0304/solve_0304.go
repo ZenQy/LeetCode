@@ -32,16 +32,16 @@ func Constructor(matrix [][]int) NumMatrix {
 	return NumMatrix{matrix}
 }
 
-func (this *NumMatrix) SumRegion(row1 int, col1 int, row2 int, col2 int) int {
-	sum := this.Matrix[row2][col2]
+func (nm *NumMatrix) SumRegion(row1 int, col1 int, row2 int, col2 int) int {
+	sum := nm.Matrix[row2][col2]
 	if row1-1 >= 0 {
-		sum -= this.Matrix[row1-1][col2]
+		sum -= nm.Matrix[row1-1][col2]
 	}
 	if col1-1 >= 0 {
-		sum -= this.Matrix[row2][col1-1]
+		sum -= nm.Matrix[row2][col1-1]
 	}
 	if row1-1 >= 0 && col1-1 >= 0 {
-		sum += this.Matrix[row1-1][col1-1]
+		sum += nm.Matrix[row1-1][col1-1]
 	}
 
 	return sum
