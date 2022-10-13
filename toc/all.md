@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 37
+总计: 45
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -19,13 +19,19 @@
 | 118 | 118 | 简单 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/) | [solve/solve0118](../solve/solve0118)|
 | 119 | 119 | 简单 | [杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/) | [solve/solve0119](../solve/solve0119)|
 | 125 | 125 | 简单 | [验证回文串](https://leetcode.cn/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
+| 151 | 151 | 中等 | [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | [solve/solve0151](../solve/solve0151)|
 | 189 | 189 | 中等 | [轮转数组](https://leetcode.cn/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
 | 238 | 238 | 中等 | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | [solve/solve0238](../solve/solve0238)|
+| 242 | 242 | 简单 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 274 | 274 | 中等 | [H 指数](https://leetcode.cn/problems/h-index/) | [solve/solve0274](../solve/solve0274)|
 | 283 | 283 | 简单 | [移动零](https://leetcode.cn/problems/move-zeroes/) | [solve/solve0283](../solve/solve0283)|
 | 289 | 289 | 中等 | [生命游戏](https://leetcode.cn/problems/game-of-life/) | [solve/solve0289](../solve/solve0289)|
 | 303 | 303 | 简单 | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | [solve/solve0303](../solve/solve0303)|
 | 304 | 304 | 中等 | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | [solve/solve0304](../solve/solve0304)|
+| 344 | 344 | 简单 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
+| 383 | 383 | 简单 | [赎金信](https://leetcode.cn/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
+| 387 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
+| 389 | 389 | 简单 | [找不同](https://leetcode.cn/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 396 | 396 | 中等 | [旋转函数](https://leetcode.cn/problems/rotate-function/) | [solve/solve0396](../solve/solve0396)|
 | 414 | 414 | 简单 | [第三大的数](https://leetcode.cn/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 419 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
@@ -37,6 +43,8 @@
 | 495 | 495 | 简单 | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
 | 498 | 498 | 中等 | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/) | [solve/solve0498](../solve/solve0498)|
 | 520 | 520 | 简单 | [检测大写字母](https://leetcode.cn/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
+| 541 | 541 | 简单 | [反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
+| 557 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
 | 566 | 566 | 简单 | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/) | [solve/solve0566](../solve/solve0566)|
 | 598 | 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 628 | 628 | 简单 | [三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solve/solve0628](../solve/solve0628)|
