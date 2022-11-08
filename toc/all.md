@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 45
+总计: 47
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -12,6 +12,7 @@
 | 27 | 27 | 简单 | [移除元素](https://leetcode.cn/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 41 | 41 | 困难 | [缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) | [solve/solve0041](../solve/solve0041)|
 | 48 | 48 | 中等 | [旋转图像](https://leetcode.cn/problems/rotate-image/) | [solve/solve0048](../solve/solve0048)|
+| 49 | 49 | 中等 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | [solve/solve0049](../solve/solve0049)|
 | 54 | 54 | 中等 | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | [solve/solve0054](../solve/solve0054)|
 | 58 | 58 | 简单 | [最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 59 | 59 | 中等 | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | [solve/solve0059](../solve/solve0059)|
@@ -38,6 +39,7 @@
 | 434 | 434 | 简单 | [字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
 | 442 | 442 | 中等 | [数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [solve/solve0442](../solve/solve0442)|
 | 448 | 448 | 简单 | [找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | [solve/solve0448](../solve/solve0448)|
+| 451 | 451 | 中等 | [根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/) | [solve/solve0451](../solve/solve0451)|
 | 453 | 453 | 中等 | [最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 485 | 485 | 简单 | [最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/) | [solve/solve0485](../solve/solve0485)|
 | 495 | 495 | 简单 | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
