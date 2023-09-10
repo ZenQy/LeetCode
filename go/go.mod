@@ -1,6 +1,6 @@
 module leetcode-solutions
 
-go 1.21.0
+go 1.20
 
 require (
 	github.com/goccy/go-json v0.10.0 // indirect

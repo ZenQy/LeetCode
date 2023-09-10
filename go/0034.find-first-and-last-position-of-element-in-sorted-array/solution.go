@@ -16,43 +16,33 @@ import (
 
 func searchRange(nums []int, target int) (ans []int) {
 	ans = []int{-1, -1}
-
-	left, mid, right := 0, 0, len(nums)
-	if right == 0 {
+	if len(nums) == 0 {
 		return
 	}
-	for left < right {
-		mid = (left + right) / 2
-		fmt.Println(mid, nums[mid])
-		if nums[mid] == target && (mid == 0 || nums[mid-1] < target) {
-			break
-		}
-		if nums[mid] >= target {
-			right = mid
-		} else {
-			left = mid + 1
-		}
-	}
-	if nums[mid] != target {
+	left := Boader(nums, target, false)
+	if len(nums) == left {
 		return
 	}
-	ans[0] = mid
-
-	left, mid, right = 0, 0, len(nums)
-	for left < right {
-		mid = (left + right) / 2
-		fmt.Println(mid, nums[mid])
-		if nums[mid] == target && (mid == len(nums)-1 || nums[mid+1] > target) {
-			break
-		}
-		if nums[mid] > target {
-			right = mid
-		} else {
-			left = mid + 1
-		}
+	if nums[left] != target {
+		return
 	}
-	ans[1] = mid
+	ans[0] = left
+	ans[1] = Boader(nums, target, true) - 1
+
 	return
+}
+
+func Boader(nums []int, target int, more bool) int {
+	left, mid, right := 0, 0, len(nums)
+	for left < right {
+		mid = (left + right) / 2
+		if nums[mid] < target || (nums[mid] == target && more) {
+			left = mid + 1
+		} else {
+			right = mid
+		}
+	}
+	return left
 }
 
 // @lc code=end
