@@ -1,6 +1,6 @@
-// Created by ZenQy at 2023/12/30 22:17
+// Created by ZenQy at 2023/12/31 22:50
 // leetgo: dev
-// https://leetcode.cn/problems/remove-element/
+// https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 
 package main
 
@@ -14,13 +14,14 @@ import (
 
 // @lc code=begin
 
-func removeElement(nums []int, val int) (ans int) {
-	for i := 0; i < len(nums); i++ {
-		if nums[i] != val {
-			nums[ans] = nums[i]
+func removeDuplicates(nums []int) (ans int) {
+	for i := 1; i < len(nums); i++ {
+		if nums[ans] != nums[i] {
 			ans++
+			nums[ans] = nums[i]
 		}
 	}
+	ans++
 	return
 }
 
@@ -29,8 +30,7 @@ func removeElement(nums []int, val int) (ans int) {
 func main() {
 	stdin := bufio.NewReader(os.Stdin)
 	nums := Deserialize[[]int](ReadLine(stdin))
-	val := Deserialize[int](ReadLine(stdin))
-	ans := removeElement(nums, val)
+	ans := removeDuplicates(nums)
 
 	fmt.Println("\noutput:", Serialize(ans))
 }

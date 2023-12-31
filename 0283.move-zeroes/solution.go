@@ -1,6 +1,6 @@
-// Created by ZenQy at 2023/12/30 22:17
+// Created by ZenQy at 2023/12/31 23:04
 // leetgo: dev
-// https://leetcode.cn/problems/remove-element/
+// https://leetcode.cn/problems/move-zeroes/
 
 package main
 
@@ -14,14 +14,17 @@ import (
 
 // @lc code=begin
 
-func removeElement(nums []int, val int) (ans int) {
+func moveZeroes(nums []int) {
+	ans := 0
 	for i := 0; i < len(nums); i++ {
-		if nums[i] != val {
+		if nums[i] != 0 {
 			nums[ans] = nums[i]
 			ans++
 		}
 	}
-	return
+	for i := ans; i < len(nums); i++ {
+		nums[i] = 0
+	}
 }
 
 // @lc code=end
@@ -29,8 +32,8 @@ func removeElement(nums []int, val int) (ans int) {
 func main() {
 	stdin := bufio.NewReader(os.Stdin)
 	nums := Deserialize[[]int](ReadLine(stdin))
-	val := Deserialize[int](ReadLine(stdin))
-	ans := removeElement(nums, val)
+	moveZeroes(nums)
+	ans := nums
 
 	fmt.Println("\noutput:", Serialize(ans))
 }
